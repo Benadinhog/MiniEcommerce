@@ -1,0 +1,7 @@
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_MiniEcommerce.Tests
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_MiniEcommerce.Tests
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\obj\Debug\net10.0\MiniEcommerce.Tests.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\obj\Debug\net10.0\MiniEcommerce.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\obj\Debug\net10.0\MiniEcommerce.Tests.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\obj\Debug\net10.0\MiniEcommerce.Tests.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNA\MiniEcommerce\MiniEcommerce.Tests\obj\Debug\net10.0\MiniEcommerce.Tests.csproj.CoreCompileInputs.cache
